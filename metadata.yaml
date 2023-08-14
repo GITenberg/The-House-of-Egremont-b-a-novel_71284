@@ -1,0 +1,53 @@
+_repo: The-House-of-Egremont-b-a-novel_71284
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, Charles M.
+    - Relyea, C. M. (Charles Mark)
+    - Reylea, C. M.
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+    wikipedia: https://en.wikipedia.org/wiki/Charles_M._Relyea
+creator:
+  author:
+    agent_name: Seawell, Molly Elliot
+    aliases:
+    - Seawell, M. Elliot (Molly Elliot)
+    - Seawell, Molly Elliott
+    birthdate: 1860
+    deathdate: 1916
+    gutenberg_agent_id: '7754'
+    url: http://www.gutenberg.org/2009/agents/7754
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/43099
+    - https://en.wikipedia.org/wiki/Molly_Elliot_Seawell
+description: ''
+gutenberg_issued: '2023-07-28'
+identifiers:
+  gutenberg: '71284'
+language: en
+pgterms:marc904: https://archive.org/details/houseofegremontn00seawiala
+pgterms:marc905: 20181122185000seawell
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bCharles Scribner''s Sons, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715 -- Fiction'
+- !lcsh 'British -- France -- Fiction'
+- !lcsh 'Great Britain -- History -- William and Mary, 1689-1702 -- Fiction'
+- !lcsh 'Exiles -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The House of Egremont : $b a novel'
+url: http://www.gutenberg.org/ebooks/71284
